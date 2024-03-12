@@ -4,14 +4,16 @@ This repository contains the details of major project created by the students of
 <b>#NOTE</b><br>
 This repository contains the details of students under following faculty mentor only.<br>
 <ul>
-  <li>Dr. Kalpana Sagar</li>
-<!--   <li>Ms. Neha Shukla</li> -->
+<!--   <li>Ms.. Kalpana Sagar</li> -->
   <li>Ms. Pallavi Sharma</li>
-  <li>Ms. Pooja Sharma</li>
   <li>Mr. Sreesh Gaur</li>
-  <li>Mr. Vikas Kamra</li>
   <li>Mr. Amit Sanger</li>
-<!--   <li>Mr. Gaurav Rawat</li> -->
+  <li>Mr. Rahul Chahuhan</li>
+  <li>Ms. Vishakha Chahuhan</li>
+  <li>Mr. Vivek Kumar Sharma</li>
+  <li>Ms. Shreela Parekh</li>
+  <li>Mr. Anmol Jain</li>
+  <li>Mr. Puneet Goyal</li>
 </ul>
   
 <b>#How to access</b><br>
@@ -25,37 +27,174 @@ This repository contains the details of students under following faculty mentor 
 
 <b>#Student Data</b><br>
 Folders of following project Ids has been created.<br>
-<table> 
-  <thead>
-    <tr> 
-      <th>S.No</th> 
-      <th>Project ID</th>
-      <th>Guide Name</th> 
-    </tr> 
-  </thead>
-  <tbody> 
-    <tr> <td>0</td> <td><span style="font-style: normal; font-weight: 400;">PCS24-08</span></td>
-      <td><span style="font-style: normal; font-weight: 400;">Dr. Kalpana Sagar</span><br></td> </tr> <tr> <td>1</td> <td><span style="font-style: normal; font-weight: 400;">PCS24-48</span></td>
-      <td><span style="font-style: normal; font-weight: 400;">Dr. Kalpana Sagar</span><br></td> </tr> <tr> <td>2</td> <td><span style="font-style: normal; font-weight: 400;">PCS24-62</span></td>
-      <td><span style="font-style: normal; font-weight: 400;">Dr. Kalpana Sagar</span><br></td> </tr> <tr> <td>3</td> <td><span style="font-style: normal; font-weight: 400;">PCS24-73</span></td>
-      <td><span style="font-style: normal; font-weight: 400;">Dr. Kalpana Sagar</span><br></td> </tr> <tr> <td>4</td> <td><span style="font-style: normal; font-weight: 400;">PCS24-26</span></td>
-<!--       <td><span style="font-style: normal; font-weight: 400;">Ms. Neha Shukla&nbsp;</span><br></td> </tr> <tr> <td>5</td> <td><span style="font-style: normal; font-weight: 400;">PCS23-61</span></td> -->
-<!--       <td><span style="font-style: normal; font-weight: 400;">Ms. Neha Shukla&nbsp;</span><br></td> </tr> <tr> <td>6</td> <td><span style="font-style: normal; font-weight: 400;">PCS23-78</span></td> -->
-      <td><span style="font-style: normal; font-weight: 400;">Ms. Pallavi Sharma</span><br></td> </tr> <tr> <td>7</td> <td><span style="font-style: normal; font-weight: 400;">PCS24-75</span></td>
-      <td><span style="font-style: normal; font-weight: 400;">Ms. Pallavi Sharma</span><br></td> </tr> <tr> <td>8</td> <td><span style="font-style: normal; font-weight: 400;">PCS24-43</span></td> 
-      <td><span style="font-style: normal; font-weight: 400;">Ms. Pallavi Sharma</span><br></td> </tr> <tr> <td>8</td> <td><span style="font-style: normal; font-weight: 400;">PCS24-25</span></td>
-      <td><span style="font-style: normal; font-weight: 400;">Ms. Pallavi Sharma</span><br></td> </tr> <tr> <td>8</td> <td><span style="font-style: normal; font-weight: 400;">PCS24-52</span></td>  
-      <td><span style="font-style: normal; font-weight: 400;">Ms. Pallavi Sharma</span><br></td> </tr> <tr> <td>9</td> <td><span style="font-style: normal; font-weight: 400;">PCS24-33</span></td>
-      <td><span style="font-style: normal; font-weight: 400;">Ms. Pooja Sharma</span><br></td> </tr> <tr> <td>10</td> <td><span style="font-style: normal; font-weight: 400;">PCS24-49</span></td>
-      <td><span style="font-style: normal; font-weight: 400;">Ms. Pooja Sharma</span><br></td> </tr> <tr> <td>11</td> <td><span style="font-style: normal; font-weight: 400;">PCS24-77</span></td> 
-      <td><span style="font-style: normal; font-weight: 400;">Ms. Pooja Sharma</span><br></td> </tr> <tr> <td>12</td> <td><span style="font-style: normal; font-weight: 400;">PCS24-78</span></td> 
-      <td><span style="font-style: normal; font-weight: 400;">Mr. Sreesh Gaur</span><br></td> </tr> <tr> <td>13</td> <td><span style="font-style: normal; font-weight: 400;">PCS24-41</span></td>
-      <td><span style="font-style: normal; font-weight: 400;">Mr. Sreesh Gaur</span><br></td> </tr> <tr> <td>14</td> <td><span style="font-style: normal; font-weight: 400;">PCS24-30</span></td>
-      <td><span style="font-style: normal; font-weight: 400;">Mr. Sreesh Gaur</span><br></td> </tr> <tr> <td>15</td> <td><span style="font-style: normal; font-weight: 400;">PCS24-32</span></td>
-      <td><span style="font-style: normal; font-weight: 400;">Mr. Vikas Kamra&nbsp;</span><br></td> </tr> <tr> <td>16</td> <td><span style="font-style: normal; font-weight: 400;">PCS24-59</span></td> 
-      <td><span style="font-style: normal; font-weight: 400;">Mr. Vikas Kamra&nbsp;</span><br></td> </tr> <tr> <td>17</td> <td><span style="font-style: normal; font-weight: 400;">PCS24-76</span></td> 
-      <td><span style="font-style: normal; font-weight: 400;">Mr. Vikas Kamra&nbsp;</span><br></td> </tr>
-      <td><span style="font-style: normal; font-weight: 400;">Mr. Amit Sanger</span><br></td> </tr> <tr> <td>15</td> <td><span style="font-style: normal; font-weight: 400;">PCS24-20</span></td>
-      <td><span style="font-style: normal; font-weight: 400;">Mr. Amit Sanger</span><br></td> </tr> <tr> <td>15</td> <td><span style="font-style: normal; font-weight: 400;">PCS24-29</span></td>
-    </tbody>
+<table border="1">
+  </thead>  
+  <tbody>
+  <tr>
+    <td>Serial No</td>
+    <td>PCS Code</td>
+    <td>Name</td>
+</tr>
+
+
+
+<!-- Blank Row -->
+
+<tr>
+    <td>1</td>
+    <td>PCS24-71</td>
+    <td>Ms. Pallavi Sharma</td>
+</tr>
+
+<tr>
+    <td>2</td>
+    <td>PCS24-24</td>
+    <td>Ms. Pallavi Sharma</td>
+</tr>
+
+<tr>
+    <td>3</td>
+    <td>PCS24-41</td>
+    <td>Ms. Pallavi Sharma</td>
+</tr>
+
+
+<!-- Blank Row -->
+
+<tr>
+    <td>4</td>
+    <td>PCS24-74</td>
+    <td>Mr Shreesh Gaur</td>
+</tr>
+
+<tr>
+    <td>5</td>
+    <td>PCS24-28</td>
+    <td>Mr Shreesh Gaur</td>
+</tr>
+
+<tr>
+    <td>6</td>
+    <td>PCS24-39</td>
+    <td>Mr Shreesh Gaur</td>
+</tr>
+
+<!-- Blank Row -->
+
+<tr>
+    <td>7</td>
+    <td>PCS24-46</td>
+    <td>Mr Amit Sengar</td>
+</tr>
+
+<tr>
+    <td>8</td>
+    <td>PCS24-68</td>
+    <td>Mr Amit Sengar</td>
+</tr>
+
+
+<!-- Blank Row -->
+
+<tr>
+    <td>9</td>
+    <td>PCS24-17</td>
+    <td>Mr Rahul Chauhan</td>
+</tr>
+
+<tr>
+    <td>10</td>
+    <td>PCS24-48</td>
+    <td>Mr Rahul Chauhan</td>
+</tr>
+
+<tr>
+    <td>11</td>
+    <td>PCS24-59</td>
+    <td>Mr Rahul Chauhan</td>
+</tr>
+
+<tr>
+    <td>12</td>
+    <td>PCS24-73</td>
+    <td>Mr Rahul Chauhan</td>
+</tr>
+
+<!-- Blank Row -->
+
+<tr>
+    <td>13</td>
+    <td>PCS24-34</td>
+    <td>Ms. Vishakha Chauhan</td>
+</tr>
+
+<tr>
+    <td>14</td>
+    <td>PCS24-36</td>
+    <td>Ms. Vishakha Chauhan</td>
+</tr>
+
+<!-- Blank Row -->
+<tr>
+    <td>15</td>
+    <td>PCS24-08</td>
+    <td>Mr Vivek Kumar Sharma</td>
+</tr>
+
+<tr>
+    <td>16</td>
+    <td>PCS24-02</td>
+    <td>Mr Vivek Kumar Sharma</td>
+</tr>
+
+<tr>
+    <td>17</td>
+    <td>PCS24-67</td>
+    <td>Mr Vivek Kumar Sharma</td>
+</tr>
+
+<!-- Blank Row -->
+
+<tr>
+    <td>18</td>
+    <td>PCS24-25</td>
+    <td>Ms. Shreela Parekh</td>
+</tr>
+
+<tr>
+    <td>19</td>
+    <td>PCS24-26</td>
+    <td>Ms. Shreela Parekh</td>
+</tr>
+
+<!-- Blank Row -->
+
+<tr>
+    <td>20</td>
+    <td>PCS24-30</td>
+    <td>Mr Anmol Jain</td>
+</tr>
+
+<tr>
+    <td>21</td>
+    <td>PCS24-47</td>
+    <td>Mr Anmol Jain</td>
+</tr>
+
+<!-- Blank Row -->
+
+<tr>
+    <td>22</td>
+    <td>PCS24-56</td>
+    <td>Mr Puneet Goyal</td>
+</tr>
+
+<tr>
+    <td>23</td>
+    <td>PCS24-72</td>
+    <td>Mr Puneet Goyal</td>
+</tr>
+
+
+  </tbody>
 </table>
